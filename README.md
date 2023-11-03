@@ -7,7 +7,27 @@ That is, each hand has 3x5 keys for the fingers and two for the thumbs.
 The layout has 4 layers, controlled by `MO(1)` and `MO(2)` keys, which when held
 switch to layers 1 and 2, respectively, and layer 3 when both are held.
 
+The modifier keys on layers 1 and 2 are "one-shot", meaning they will be sticky
+when the layers are released and used for the next keypress.
+
 ![Rendering of keymap layers](https://github.com/instinctive/qmk-planck/blob/main/doc/instinctive.png?raw=true)
+
+## Numbers
+
+I kept the number keys in their usual spots, available on both layers 1 and 2.
+The period and comma characters are often typed with numbers, and they are
+available to the index and middle fingers while the thumb holds the layer key.
+
+## Programming and Haskell
+
+The minus `-` character is given the best possible spot on both layers.
+
+Parentheses and brackets (exc: angle brackets) are given balanced central locations on both layers.
+
+The angle brackets are set up for Haskell: they are on the left hand with the
+easy bigrams and trigrams with the `*$=-` characters, which are very common in
+Haskell. The ampersand `&` character is accessible with the pinky finger so
+that, for example, `<&>` can be formed without layer switching.
 
 ## Building
 
