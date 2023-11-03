@@ -7,7 +7,7 @@ That is, each hand has 3x5 keys for the fingers and two for the thumbs.
 The layout has 4 layers, controlled by `MO(1)` and `MO(2)` keys, which when held
 switch to layers 1 and 2, respectively, and layer 3 when both are held.
 
-![Rendering of keymap layers](https://github.com/instinctive/qmk-planck/blob/master/doc/instinctive.png?raw=true)
+![Rendering of keymap layers](https://github.com/instinctive/qmk-planck/blob/main/doc/instinctive.png?raw=true)
 
 ## Building
 
