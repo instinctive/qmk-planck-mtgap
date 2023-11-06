@@ -5,11 +5,11 @@ This is a five-layer QMK keymap for the
 restructured as a 2x(3x5+2) split layout.
 That is, each hand has 3x5 keys for the fingers and two for the thumbs.
 
-0 [MTGAP](https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/) default layer.
-0 [QWERTY](https://en.wikipedia.org/wiki/QWERTY) default layer.
-0 RH MO(*layer*): modifiers, numbers, symbols, **Escape**.
-0 LH MO(*layer*): modifiers, numbers, symbols, **Enter**, arrow keys.
-0 Both MO(..) keys: function keys, page up/down, arrow keys, backlight, switch default layers.
+0. [MTGAP](https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/) default layer.
+0. [QWERTY](https://en.wikipedia.org/wiki/QWERTY) default layer.
+0. RH MO(*layer*): modifiers, numbers, symbols, **Escape**.
+0. LH MO(*layer*): modifiers, numbers, symbols, **Enter**, arrow keys.
+0. Both MO(..) keys: function keys, page up/down, arrow keys, backlight, switch default layers.
 
 ![Rendering of keymap layers](https://github.com/instinctive/qmk-planck/blob/main/doc/instinctive.png?raw=true)
 
