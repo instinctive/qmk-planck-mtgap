@@ -41,7 +41,7 @@ that, for example, `<&>` can be formed without layer switching.
     $ qmk config user.keyboard=planck/rev6_drop
     $ qmk config user.keymap=instinctive
     $ qmk compile
-    $ qmk flash planck_rev6_drop_instinctive.bin
+    $ sudo qmk flash planck_rev6_drop_instinctive.bin
 
 ## Credits
 
